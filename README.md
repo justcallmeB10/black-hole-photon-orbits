@@ -29,7 +29,7 @@ Two known results are used as checks:
 
 ## Results
 
-![Photon paths around a Schwarzschild black hole](photon_paths.png)
+![Photon paths around a Schwarzschild black hole](photon_paths.png.png)
 
 Red paths are captured and blue paths escape. The black disk is the event horizon
 and the dashed circle is the photon sphere at $r = 3M$. The ray with $b = 5.2$ loops
