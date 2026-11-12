@@ -64,5 +64,5 @@ Needs `numpy`, `scipy` and `matplotlib`. Run `python photon_orbits.py`.
 - Extend to the Kerr (rotating) black hole.
 
 ## References
-- P. Olesen, *General Relativity and Cosmology*, lecture notes. Sec. 1.20: derivation of the Schwarzschild metric (Eq. 1.229).
-- O. Witt-Hansen, *General Relativity and Cosmology* (2016), lecture notes. Sec. 3.3: Schwarzschild solution; Sec. 3.4: deflection of a light ray; Sec. 3.5.6: orbital motion around a black hole (effective potential and photon orbits).
+- O. Witt-Hansen, *General Relativity and Cosmology* (2016), lecture notes. Sec. 3.3: Schwarzschild metric; Sec. 3.4: light deflection, 4GM/(c²ρ).
+- P. Olesen, *General Relativity and Cosmology*, lecture notes. Sec. 1.20: derivation of the Schwarzschild metric.
